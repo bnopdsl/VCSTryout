@@ -6,6 +6,7 @@ page.type=about
 page.image=/images/cards/android-auto_2x.png
 
 @jd:body
+adding line here
 
 <style>
 .fullpage>#footer,
